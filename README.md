@@ -4,7 +4,7 @@
 
 |Informações|
 |-----|
-|Numero|
+|Conta|
 |Agência|
 |Nome Cliente|
 |Saldo|
